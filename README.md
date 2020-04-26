@@ -1,29 +1,10 @@
-# README #
+This project gives an entire view of  how to create a Character_Device_Driver in Linux(Ubuntu).
+Create a Driver Module.
+Build the Driver Module using Makefile.
+Create user interface for the same(here it has been created via a C program).
+Insert the Driver Module.
+Take the concerned inputs via that interface and perform the read,write and close operations.
+Close the module and Remove it.
+One can use the same PC for the creation and application of the module . Suggestion :A test PC would be better for application.
 
-This README would normally document whatever steps are necessary to get your application up and running.
 
-### What is this repository for? ###
-
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
-
-### How do I get set up? ###
-
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
